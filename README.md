@@ -1,0 +1,1 @@
+Offline application to review, locate, and create a food log for restaurants on YorkU campus, using Java and SQl. The user is able to use filters and a search bar to find restaurants and their details. Users can make/view other reviews and create a personal log. You may submit feedback for any bugs and improvements.
